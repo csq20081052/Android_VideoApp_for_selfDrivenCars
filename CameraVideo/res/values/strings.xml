@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CameraVideo!</string>
+    <string name="app_name">CameraVideo</string>
+    <string name="btnIntend">Photo</string>
+    <string name="btnIntendS"> </string>
+    <string name="btnIntendV">Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+</resources>
